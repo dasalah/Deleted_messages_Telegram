@@ -2,9 +2,9 @@ from pyrogram import Client, filters
 import logging
 import asyncio
 
-api_id = 1234 <- replace this
-api_hash = "abcd" <- replace this
-delete_group: str = "-12345678" <- replace this 
+api_id = 1747534
+api_hash = "5a2684512006853f2e48aca9652d83ea" 
+delete_group: str = "-4513491653"
 limit: int = 1
 app = Client("my_bot", api_id=api_id, api_hash=api_hash)
 
